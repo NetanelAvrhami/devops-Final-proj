@@ -42,6 +42,11 @@
 							class="form-control" id="password" placeholder="Password"
 							name="password" required>
 					</div>
+					<div class="form-group">
+						<label for="change">change:</label> <input type="text"
+							class="form-control" id="password" placeholder="change"
+							name="change" required>
+					</div>
 
 					<button type="submit" class="btn btn-primary">Submit</button>
 
